@@ -1,6 +1,16 @@
-body {
+/* body {
+    color: red;
+} */
+.main-text {
     color: red;
 }
 b {
     color: blue;
+}
+#text-in-p{
+    color: cadetblue;
+}
+
+div p b, div i{
+    color: green;
 }
