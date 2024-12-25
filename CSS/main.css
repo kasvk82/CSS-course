@@ -1,3 +1,17 @@
+.block {
+    background: red;
+    height: 200px;
+    width: 300px;
+    opacity: 0.5;
+    /* margin-top: 40px;
+    margin-left: 100px; */
+    margin: 20px 50px;
+
+    padding: 20px 50px;
+
+    display: block;
+
+}
 /* body {
     background-color: #99afe0;
     background-image: url('C:\\repo\\CSS-course\\f7749987b19f11efa891127876c01c29.png') ;
